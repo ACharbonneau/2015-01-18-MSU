@@ -441,7 +441,7 @@ Exercise: What would make this script better?
 	Have the computer prompt you for input
 
 
-Finished :download:`REscript <files/REscript.sh>`
+Finished :download:`REscript <Files/REscript.sh>`
 
 
 
