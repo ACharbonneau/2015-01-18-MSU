@@ -72,3 +72,5 @@ MD5 (GenomicsLesson.zip) = e237e30985867e6bea741949e42a0c3b
 
 >Exercise 1: Download the best practices file from Data Carpentry:
 >https://raw.githubusercontent.com/ACharbonneau/2016-01-18-MSU/gh-pages/Files/GoodBetterBest.md
+
+##<a href="https://github.com/ACharbonneau/2016-01-18-MSU/blob/gh-pages/Lessons/02_working_with_archives.md"> Next page</a>
