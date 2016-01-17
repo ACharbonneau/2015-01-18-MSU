@@ -22,3 +22,5 @@ Your future self will thank you.
 
 ###References
 [A Quick Guide to Organizing Computational Biology Projects] (http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424)
+
+##<a href="https://github.com/ACharbonneau/2016-01-18-MSU/blob/gh-pages/Lessons/01_Download_and_test.md"> Next page</a>
