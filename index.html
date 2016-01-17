@@ -1,7 +1,7 @@
 ---
 layout: workshop
 root: .
-venue: BEACON @ MSU (brief name of host site)
+venue: BEACON @ MSU #(brief name of host site)
 address: Biomedical and Physical Sciences Building, 567 Wilson Road, Room 1441 #(street address of home location)
 country: United-States #(country (hyphenated if need be, like 'United-Kingdom')
 language: en #(language code like 'en' or 'fr')
@@ -14,10 +14,10 @@ instructor: [Amanda Charbonneau, Will Pitchers] #(list of names like ["Kay McNul
 helper: []#(list of names like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"])
 contact: lsmead@msu.edu #(contact email address for workshop organizer)
 etherpad: # FIXME (insert the URL for your Etherpad if you're using one)
-day1_am: "Data organization in spreadsheets and OpenRefine"
-day1_pm: "Introduction to R"
-day2_am: "Data analysis and visualization in R"
-day2_pm: "SQL for data management"
+day1_am: "Intro to genomics files"
+day1_pm: "Working in the Shell"
+#day2_am: "Data analysis and visualization in R"
+#day2_pm: "SQL for data management"
 
 ---
 <!--
@@ -36,6 +36,8 @@ day2_pm: "SQL for data management"
   are not using Eventbrite, or leave it in, since it will not be
   displayed if the 'eventbrite' field in the header is not set.
 -->
+<strong><a href=http://goo.gl/forms/rOGXaXFc6S> Sign-Up Link </a></strong>
+
 {% if page.eventbrite %}
 <iframe
   src="https://www.eventbrite.com/tickets-external?eid={{page.eventbrite}}&ref=etckt"
@@ -141,18 +143,17 @@ Participants should bring their laptops and plan to participate actively. By the
 <div class="row">
   <div class="col-md-6">
 
-    <h3>Day 1</h3>
+    <h3>Monday</h3>
     <table class="table table-striped">
-      <tr> <td>Morning</td>  <td>{{page.day1_am}}</td> </tr>
-       <tr> <td>Afternoon</td>  <td>{{page.day1_pm}}</td> </tr>
+      <tr> <td></td>        <td>09:00</td>       <td> Data organization and management </td> </tr>
+      <tr> <td></td>        <td></td>       <td>Break 10:30 - 10:45</td> </tr>
+      <tr> <td></td>        <td>10:45</td>       <td> Working with genomics file types </td> </tr> 
+      <tr> <td></td>        <td>12:00</td>       <td> Lunch Noon - 1 </td> </tr> 
+      <tr> <td></td>        <td>01:00</td>  <td> Introduction to command line </td> </tr>
+      <tr> <td></td>        <td></td>       <td>Break 3:00 - 3:15</td> </tr>
+      <tr> <td></td>        <td>3:15</td>       <td>Wrangling and processing genomic data-Shell scripting </td> </tr>  
     </table>
  
- 
-    <h3>Day 2</h3>
-    <table class="table table-striped">
-      <tr> <td>Morning</td>  <td>{{page.day2_am}}</td> </tr>
-      <tr> <td>Afternoon</td>  <td>{{page.day2_pm}}</td> </tr>
-    </table>
  </div>
 </div>
 
@@ -290,12 +291,18 @@ Participants should bring their laptops and plan to participate actively. By the
 
 <p>
 To participate in a Data Carpentry workshop, you will need working copies of the 
-described software. Please make sure to install everything (or at least to download 
-the installers) before the start of your workshop. Participants should bring and use 
-their own laptops to insure the proper setup of tools for an efficient workflow 
-once you leave the workshop.
+described software.
+</p>
+<strong>Windows users:</strong> Install <a href = "https://git-for-windows.github.io/">Gitbash</a> 
+before arriving at the workshop. (or at least download 
+the installers) before the start of your workshop. 
 <p>
-Please follow these <a href=install.html>Setup Instructions</a>
+<strong>Mac and Linux users:</strong> No additional software is required
+</p>
+Participants should bring and use their own laptops to insure the proper setup of tools 
+for an efficient workflow once you leave the workshop.
+</p>
+
 
 <p>
   We maintain a list of common issues that occur during installation as a reference for instructors
