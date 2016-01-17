@@ -325,7 +325,7 @@ Again, naively, we might try:
 	grep -c "[Gg][Tt][AaCc][GgTt][Aa][Cc]" Raphanus.fa
 
 But this looks like the sort of problem a programmer has already figured out. If we 
-search the grem manual file for 'case' we find that we can just tell grep to ignore case:
+search the grep manual file for 'case' we find that we can just tell grep to ignore case:
 
 .. code:: bash
 
@@ -390,7 +390,9 @@ we can get most of the way there by just using ``cut`` again.
 
 	for ATfiles in `ls`; do grep -i -B 1 "gt[ac][gt]ac" ${ATfiles} | grep ">" | cut -f 1 -d " " ; done
 
-	Exercise: Can you figure out how to get rid of the leading > from this list? Hint [#]_.
+	Exercise: Can you figure out how to get rid of the leading > from this list? 
+
+Hint [#]_.
 
 Okay, so this is great, but it's *so* complicated. If I want to run this next week, or 
 even tomorrow, I'm *never* going to remember how we did it. So we're going to save all this
