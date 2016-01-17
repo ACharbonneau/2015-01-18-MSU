@@ -356,3 +356,5 @@ This tutorial could never be a complete list; there are nearly as many file form
 
 ###Scripts for converting between file formats
 Since most genomics files are just text, it's relatively easy to convert between them, and you could write your own file converter with a complicated enough find/replace command. However, *LOTS* of people have already written scripts that do this for you, and have made them available online. When you need to convert files, the easiest thing to do is simply Google the conversion, i.e. "sff convert to fastq", this will almost always give you many options to choose from. You can also ask at your sequencing facility, as they likely have already written scripts to convert their output to popular formats. Here's a couple links to groups that have made free conversion tools available for anyone to download: <a href="https://bioinf.comav.upv.es/courses/sequence_analysis/sequence_file_formats.html"> Bioinformatics at COMAV</a> and <a href="http://khmer.readthedocs.org/en/v1.4.1/user/install.html"> khmer</a>.
+
+##<a href="https://github.com/ACharbonneau/2016-01-18-MSU/blob/gh-pages/Lessons/04_the_filesystem.md"> Next Page </a>
