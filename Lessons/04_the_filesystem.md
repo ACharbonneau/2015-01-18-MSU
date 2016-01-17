@@ -38,7 +38,8 @@ knowing how to use the shell is transformative.
 * To use remote computers or cloud computing, you need to use the shell.
 
 
-![Automation].../Files/gvng.jpg)
+![Automation](../Files/gvng.jpg)
+
 
    Unix is user-friendly. It's just very selective about who its friends are.
 
@@ -158,7 +159,7 @@ This is called a hierarchical file system structure, like an upside down tree
 with root (/) at the base that looks like this.
 
 
-![Unix].../Files/Slide1.jpg)
+![Unix](../Files/Slide1.jpg)
 
 That (/) at the base is often also called the 'top' level.
 
@@ -603,7 +604,7 @@ $ nano awesome.sh
 
 Now you have something that looks like
 
-![nano1.png].../Files/nano1.png)
+![nano1.png](../Files/nano1.png)
 
 Type in your command:
 
@@ -613,7 +614,7 @@ grep -A 3 -B 1 GTGCGGGCAATTAACAGGGGTTCAC SRR098026.fastq
 
  so it looks like
 
-![nano2.png].../Files/nano-awesome.png)
+![nano2.png](../Files/nano-awesome.png)
 
 Now we want to save the file and exit. At the bottom of nano, you see the "\^X Exit". That means that we use Ctrl-X to exit. Type `Ctrl-X`. It will ask if you want to save it. Type `y` for yes. Then it asks if you want that file name. Hit 'Enter'.
 

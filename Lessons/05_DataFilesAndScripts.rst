@@ -9,7 +9,7 @@ of. However, most are more like FASTQ files, where any given file could
 be from many different steps of the pipeline. These are the ones that
 cause the most trouble, and need the most careful management.
 
-.. figure:: ../files/ngs_map_read_file_formats.png
+.. figure:: ../Files/ngs_map_read_file_formats.png
 
    FileTypes
 
