@@ -443,7 +443,6 @@ Exercise: What would make this script better?
 
 
 
-
 .. [#] Use a ``-n``
 .. [#] You'll need two greps
 .. [#] either ``-c`` or ``wc`` should give you the answer to life, the universe and everything
