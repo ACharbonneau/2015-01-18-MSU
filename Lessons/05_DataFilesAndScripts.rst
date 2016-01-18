@@ -447,22 +447,21 @@ We made *lots* of cool variations on this program:
 
 `Version 1 <https://raw.githubusercontent.com/ACharbonneau/2016-01-18-MSU/gh-pages/Files/01_REscript.sh>`_
 
+`Version2 <https://raw.githubusercontent.com/ACharbonneau/2016-01-18-MSU/gh-pages/Files/02_REscript.sh>`_
 
-:download:`Version2 </Files/02_REscript.sh>`
+`Version3 <https://raw.githubusercontent.com/ACharbonneau/2016-01-18-MSU/gh-pages/Files/03_REscript.sh>`_
 
-:download:`Version3 </Files/03_REscript.sh>`
+`Version4 <https://raw.githubusercontent.com/ACharbonneau/2016-01-18-MSU/gh-pages/Files/04_REscript.sh>`_
 
-:download:`Version4 </Files/04_REscript.sh>`
+`Version5 <https://raw.githubusercontent.com/ACharbonneau/2016-01-18-MSU/gh-pages/Files/05_REscript.sh>`_
 
-:download:`Version5 </Files/05_REscript.sh>`
+`Version6 <https://raw.githubusercontent.com/ACharbonneau/2016-01-18-MSU/gh-pages/Files/06_REscript.sh>`_
 
-:download:`Version6 </Files/06_REscript.sh>`
+`Version7 <https://raw.githubusercontent.com/ACharbonneau/2016-01-18-MSU/gh-pages/Files/07_REscript.sh>`_
 
-:download:`Version7 </Files/07_REscript.sh>`
+`AmandasSplitofMetaData <https://raw.githubusercontent.com/ACharbonneau/2016-01-18-MSU/gh-pages/Files/08_REscriptAmanda.sh>`_
 
-:download:`AmandasSplitofMetaData </Files/08_REscriptAmanda.sh>`
-
-:download:`WillsSplitofMetaData </Files/08_REscriptWill.sh>`
+`WillsSplitofMetaData <https://raw.githubusercontent.com/ACharbonneau/2016-01-18-MSU/gh-pages/Files/08_REscriptWill.sh>`_
 
 
 
