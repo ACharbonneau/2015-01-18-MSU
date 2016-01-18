@@ -445,8 +445,8 @@ Exercise: What would make this script better?
 
 We made *lots* of cool variations on this program:
 
-<a href="https://raw.githubusercontent.com/ACharbonneau/2016-01-18-MSU/gh-pages/Files/01_REscript.sh"> Version 1</a>
-:download:`Version1 </Files/01_REscript.sh>`
+`Version 1 <https://raw.githubusercontent.com/ACharbonneau/2016-01-18-MSU/gh-pages/Files/01_REscript.sh>`_
+
 
 :download:`Version2 </Files/02_REscript.sh>`
 
