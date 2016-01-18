@@ -34,7 +34,7 @@ or
 
 ```bash
 cd
-curl -O https://www.dropbox.com/s/d7zitckb5fz8494/GenomicsLesson.zip
+curl -LO https://www.dropbox.com/s/d7zitckb5fz8494/GenomicsLesson.zip
 ```
 
 ##Checking the data
