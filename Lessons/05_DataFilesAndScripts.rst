@@ -445,23 +445,23 @@ Exercise: What would make this script better?
 
 We made *lots* of cool variations on this program:
 
-:download:`Version1 <../Files/01_REscript.sh>`
+:download:`Version1 </Files/01_REscript.sh>`
 
-:download:`Version2 <../Files/02_REscript.sh>`
+:download:`Version2 </Files/02_REscript.sh>`
 
-:download:`Version3 <../Files/03_REscript.sh>`
+:download:`Version3 </Files/03_REscript.sh>`
 
-:download:`Version4 <../Files/04_REscript.sh>`
+:download:`Version4 </Files/04_REscript.sh>`
 
-:download:`Version5 <../Files/05_REscript.sh>`
+:download:`Version5 </Files/05_REscript.sh>`
 
-:download:`Version6 <../Files/06_REscript.sh>`
+:download:`Version6 </Files/06_REscript.sh>`
 
-:download:`Version7 <../Files/07_REscript.sh>`
+:download:`Version7 </Files/07_REscript.sh>`
 
-:download:`AmandasSplitofMetaData <../Files/08_REscriptAmanda.sh>`
+:download:`AmandasSplitofMetaData </Files/08_REscriptAmanda.sh>`
 
-:download:`WillsSplitofMetaData <../Files/08_REscriptWill.sh>`
+:download:`WillsSplitofMetaData </Files/08_REscriptWill.sh>`
 
 
 
